@@ -195,6 +195,10 @@ SELECT *
 FROM MyCustomer
 CROSS JOIN MySalary;
 
+------------------------------------------------
+-- Functions
+------------------------------------------------
+
 -- Date functions
 
 -- Show current date
