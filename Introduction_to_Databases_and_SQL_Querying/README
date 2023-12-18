@@ -1,0 +1,42 @@
+link to the course: https://www.udemy.com/course/introduction-to-databases-and-sql-querying/
+
+Microsoft SQL Server 
+Database used AdventureWorks2014;
+
+
+Task 
+-- Show all the department names
+-- Show all the groups
+-- Show all distinct group names
+-- Show all the department names who are part of manufacturing
+-- Show all the employees from the employee table
+-- Show all employees who have OrganizationLevel = 2
+-- Show all employees who have OrganizationLever = 2 or 3
+-- Show employees who have a title as  Facilities Manager
+-- Show employees who have a word Manager in their title
+-- Show employees who are born after 1 Jan 1980
+-- Show employees who are born between 1 Jan 1970 and 1 Jan 1980
+-- Calculated columns
+-- Show names, listPrice and increased listPrice by 10
+-- Create new table using columns names, listPrice and increased listPrice by 10 from Product
+-- Create temporary table using columns names, listPrice and increased listPrice by 10 from Product
+-- Delete data from table where name = Bearing Ball
+-- Update name Blade to Blade_New in table Product_2
+
+------------------------------------------------
+-- JOINS
+------------------------------------------------
+
+Create new tables MyEmployee, MySalary, MyPhone, MyParking, MyCustomer, MyOrder
+-- Show employees with salaries
+-- Show all employees and phone numbers from another table
+-- Show parking space and all employee names from another table
+-- Show all customers and all orders
+
+------------------------------------------------
+-- Functions
+------------------------------------------------
+
+-- Date functions: GETDATE, DATEPART, DATEADD
+-- Aggragate Functions: AVG, COUNT,  SUM, MIN,  MAX
+-- String functions: CONCAT, LEFT, RIGHT, SUBSTRING, LOWERCASE, UPPERCASE, LENGHT OF STRING, TRIM 
