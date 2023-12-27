@@ -1,0 +1,33 @@
+link to the course:  https://www.udemy.com/course/sql-101-a-beginners-guide-to-sql/
+
+MySQL
+
+Tasks:
+
+1. Introduction To SQL 
+-- How many records were returned when you ran the query?
+
+2. Basic Queries
+-- From the products table, how would you list all of the brands, without any duplicates?
+-- From the products table, write a query that shows the id column (but rename the column to product_id) and the name column (but rename the name column
+-- From the products table, select the brand name of all brands that have at least one product priced < 3.00. Be sure to avoid duplicate brand names.
+-- From the products table, select all product names from the brand Pepsi and name the column product_name
+
+3. Aggregates Queries
+-- From the products table, what is the average price for all products?
+-- From the products table, what is the max and min price per brand?
+-- From the product table, which brands have an average price > 1
+
+4. Intro to Joins
+-- Write a query to join the Products and Brands table showing all product names and brand_names, only where both are present.
+-- Write a query to show all brand names without products. Hint you will need to use  WHERE p.brand_id IS NULL after the join.
+-- Write a query to show all the product name and brand name for all products under the Pepsi brand where class_id is 2.
+
+5. Additional SQL Operators
+-- From the products table select the product name and a new column called freePrice. Use a case statement to populate the freePrice column with 0.0 if the class_id 
+    is 2, otherwise populate free price with the normal price.
+-- From the products table, write a query that returns product names that start with D. Write the query so that there are no duplicates.
+-- From the products table select the product name and product price. Order the results by descending price. If multiple products have the same price, order next by 
+    ascending name. Limit your query to 2 results.
+-- From the products table, write a query to select the product name and a new column is_cola. If the product name has Cola in the name, is_cola should  be 'true' 
+    otherwise is_cola should be 'false'.
