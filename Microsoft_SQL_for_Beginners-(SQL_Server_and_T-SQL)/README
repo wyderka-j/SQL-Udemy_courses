@@ -1,0 +1,47 @@
+link to the course: https://www.udemy.com/course/microsoft-sql-for-beginners-sql-server-and-t-sql/
+
+
+ Basic SQL Syntax and Select
+
+-- Select all
+-- Selected columns
+-- Aliases
+-- Select Distinct
+-- Where Clause
+-- And, Or, Not
+-- Order By
+-- Top
+-- Select top 50 product where the color is black and order by english product name 
+-- Max and Min
+-- Like
+-- In
+-- Between
+-- Count, Avg and Sum
+-- Nulls
+-- Group By
+-- Having
+-- Nested SQL
+-- Case
+-- Temporary Tables
+-- Common Table Expressions
+-- Date Functions
+    -- return the current date along with time
+    -- return part of a date
+    -- add or subtract dates
+    -- difference between dates
+    -- convert dates
+-- Joins
+-- Insert into tables 
+-- Inner Join
+-- left join
+-- right join
+-- outer join
+-- Get total sales in 2014 and group by product catogory to obaun best selling product
+-- Union
+-- Insert Into
+-- Insert Into Select
+-- Udpate
+-- Delete
+-- Truncate
+-- Views
+-- Stored Procedures
