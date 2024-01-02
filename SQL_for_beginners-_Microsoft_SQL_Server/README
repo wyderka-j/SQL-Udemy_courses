@@ -25,4 +25,3 @@ Aggregating data
 Set operations
   -- UNION and UNION ALL
   -- INTERSECT
-  -- join the result of the two requests, select all female students, select top 6 male students
