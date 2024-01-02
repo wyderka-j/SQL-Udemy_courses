@@ -1,0 +1,28 @@
+link to the course: https://www.udemy.com/course/sql-for-beginners-microsoft-sql-server/
+
+
+Selecting data from multiple tables
+  -- INNER JOIN
+  -- SQL Alias
+  -- RIGHT OUTER JOIN
+  -- LEFT OUTER JOIN
+  -- FULL OUTER JOIN
+  -- Sub-queries
+  -- CASE
+Filtering data
+  -- TOP N
+  -- DISTINCT
+  -- IN and NOT IN
+  -- NULL and NOT NULL
+  -- LIKE
+  -- BETWEEN and NOT BETWEEN
+Aggregating data
+  -- GROUP BY
+  -- COUNT
+  -- SUM
+  --  MIN and MAX
+  -- HAVING
+Set operations
+  -- UNION and UNION ALL
+  -- INTERSECT
+  -- join the result of the two requests, select all female students, select top 6 male students
