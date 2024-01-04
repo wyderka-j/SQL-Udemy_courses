@@ -1,0 +1,50 @@
+link to the course: https://www.udemy.com/course/sql-server-2017-in-90-minutes/
+
+Create database 
+-- Create table
+-- Insert into table
+-- list of all tables
+-- clone a table
+-- clone a backup table with no-data
+-- backup using "insert into"
+-- remove constraint from the table
+-- Check constraint
+-- Unique constraint
+-- datetime values
+-- trigger
+-- Procedure 
+-- add foreign key 
+
+Queries
+-- View everything from the table
+-- View selected columns
+-- remove duplicated records - Country
+-- Count how many countries there are
+-- View all Customers from Country = Sweden
+-- View all Customers where CustomerID is between 1 and 3
+-- View Customers from Country = Sweden and City Luleå
+-- View Customers from Germany or Spain
+-- View all Customers except Customer with CustomerID = 1
+-- Sort results by country name alphabetically
+-- Sort results by country name descending from Z to A
+-- View Customers without country name
+-- View Customers with country name
+-- Update a record
+-- View top 4 Customers
+-- View top 50 % Customers
+-- LIKE 
+-- IN 
+-- Calculate values MIN, MAX, AVG, SUM
+-- JOINS
+  - inner join 1-n
+  - left join 1-n
+  - right join 1-n
+  - full outer join 1-n
+-- UNION
+-- UNION ALL => show dublicates
+-- GROUP BY
+-- exists
+-- case when
+-- Get date time
+
+
