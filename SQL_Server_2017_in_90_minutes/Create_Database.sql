@@ -1,4 +1,4 @@
-﻿-- Create database asltutorials;
+﻿-- Create database sqltutorials;
 CREATE DATABASE sqltutorials;
 
 USE sqltutorials;
