@@ -1,0 +1,29 @@
+link to the course: https://www.udemy.com/course/sql-for-newcomers-free/
+
+PostgreSQL
+
+
+Browsing and Filtering Data
+-- all colomns from a table
+-- only selected colomns from a table
+-- Select employees with base salary more than or equal to 5000
+-- Select employees with base salary less than or equal to 5000
+-- Select employees with base salary is not equal to 5000
+-- Select employees with base salary between 1000-2000
+-- Select employees with salary bracket 1600, 2700 or 4200
+-- Select employee with last name 'Oles'
+-- Select Employees in Florida (FL) state
+-- Select Employee with phone number 718-478-8504
+-- Order records by Full name alphabetically
+-- Order employees by their net_salary from largest to smallest
+-- Select employees from customer department, order by job title and net_salary
+-- limit, show 10 highest-paid employees
+-- Employees without phone number
+Functions SUM, AVG, COUNT, MIN, MAX
+-- Total base salary for all employees
+-- Total base salary for employees from New York
+-- Average salary for all employees
+-- Average and sum base salary for employees from New York
+-- Count how many employees are in Colorado and Florida
+-- How many employees do we have in every state
+-- Hoe many employees do we have per state and job 
